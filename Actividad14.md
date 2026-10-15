@@ -96,3 +96,146 @@
 
 32. $(y^2 - 5)^3$
     $$= y^6 - 15y^4 + 75y^2 - 125$$
+
+# Resolución de Factorizaciones
+
+Ejercicios de factorización
+
+---
+
+### 33) $5n^2 + 31n - 28$
+* **Factorización:** $(5n - 4)(n + 7)$
+
+---
+
+### 34) $42n^2 + 180n + 162$
+* factor común: $6(7n^2 + 30n + 27)$
+* **Factorización:** $6(7n + 9)(n + 3)$
+
+---
+
+### 35) $28k^2 - 260k + 288$
+* factor común $4$: $4(7k^2 - 65k + 72)$
+* **Factorización:** $4(7k - 9)(k - 8)$
+
+---
+
+### 36) $5n^2 + 16n + 12$
+* **Factorización:** $(5n + 6)(n + 2)$
+
+---
+
+### 37) $7p^2 - 31p + 30$
+* **Factorización:** $(7p - 10)(p - 3)$
+
+---
+
+### 38) $7x^2 + 5x$
+* factor común $x$:
+* **Factorización:** $x(7x + 5)$
+
+---
+
+### 39) $42x^2 + 90x - 108$
+* factor común $6$: $6(7x^2 + 15x - 18)$
+* **Factorización:** $6(7x - 6)(x + 3)$
+
+---
+
+### 40) $7n^2 + 67n - 30$
+* **Factorización:** $(7n - 3)(n + 10)$
+
+---
+
+### 41) $24n^2 - 24n + 6$
+* factor común $6$: $6(4n^2 - 4n + 1)$
+* **Factorización:** $6(2n - 1)^2$
+
+---
+
+### 42) $24x^2 + 216x + 486$
+* factor común $6$: $6(4x^2 + 36x + 81)$
+* **Factorización:** $6(2x + 9)^2$
+
+---
+
+### 43) $64m^2 - 112m + 49$
+* **Factorización:** $(8m - 7)^2$
+
+---
+
+### 44) $100n^2 + 20n + 1$
+* **Factorización:** $(10n + 1)^2$
+
+---
+
+### 45) $81x^6 - 90x^3 + 25$
+* **Factorización:** $(9x^3 - 5)^2$
+
+---
+
+### 46) $147k^6 - 336k^3 + 192$
+* factor común $3$: $3(49k^6 - 112k^3 + 64)$
+* **Factorización:** $3(7k^3 - 8)^2$
+
+---
+
+### 47) $36a^8 - 192a^5 + 256a^2$
+* factor común $4a^2$: $4a^2(9a^6 - 48a^3 + 64)$
+* **Factorización:** $4a^2(3a^3 - 8)^2$
+
+---
+
+### 48) $49 + 28p^3 + 4p^6$
+* **Factorización:** $(2p^3 + 7)^2$
+
+---
+
+### 49) $9x^2 - 49$
+* Diferencia de cuadrados
+* **Factorización:** $(3x - 7)(3x + 7)$
+
+---
+
+### 50) $4a^2 - 81$
+* Diferencia de cuadrados
+* **Factorización:** $(2a - 9)(2a + 9)$
+
+---
+
+### 51) $27 - 147p^2$
+* factor común $3$: $3(9 - 49p^2)$
+* Diferencia de cuadrados
+* **Factorización:** $3(3 - 7p)(3 + 7p)$
+
+---
+
+### 52) $250n^2 - 490$
+* Sacamos factor común $10$: $10(25n^2 - 49)$
+* Diferencia de cuadrados
+* **Factorización:** $10(5n - 7)(5n + 7)$
+
+---
+
+### 53) $81k^6 - 16$
+* Diferencia de cuadrados
+* **Factorización:** $(9k^3 - 4)(9k^3 + 4)$
+
+---
+
+### 54) $x^6 - 9$
+* Diferencia de cuadrados
+* **Factorización:** $(x^3 - 3)(x^3 + 3)$
+
+---
+
+### 55) $25n^6 - 49$
+* Diferencia de cuadrados
+* **Factorización:** $(5n^3 - 7)(5n^3 + 7)$
+
+---
+
+### 56) $600a^7 - 6a$
+* factor común $6a$: $6a(100a^6 - 1)$
+* Diferencia de cuadrados
+* **Factorización:** $6a(10a^3 - 1)(10a^3 + 1)$
