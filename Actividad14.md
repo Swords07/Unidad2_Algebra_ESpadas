@@ -235,7 +235,171 @@ Ejercicios de factorización
 
 ---
 
+
 ### 56) $600a^7 - 6a$
 * factor común $6a$: $6a(100a^6 - 1)$
 * Diferencia de cuadrados
 * **Factorización:** $6a(10a^3 - 1)(10a^3 + 1)$
+
+---
+
+### 57) $125 + 8x^3$
+* Suma de cubos
+* **Factorización:** $(5 + 2x)(25 - 10x + 4x^2)$
+
+---
+
+### 58) $64 - x^3$
+* Diferencia de cubos
+* **Factorización:** $(4 - x)(16 + 4x + x^2)$
+
+---
+
+### 59) $125m^3 - 64$
+* Diferencia de cubos
+* **Factorización:** $(5m - 4)(25m^2 + 20m + 16)$
+
+---
+
+### 60) $-27u^4 - 64u$
+* Factor común $-u$: $-u(27u^3 + 64)$
+* Suma de cubos
+* **Factorización:** $-u(3u + 4)(9u^2 - 12u + 16)$
+
+---
+
+### 61) $8x^3 + 27$
+* Suma de cubos
+* **Factorización:** $(2x + 3)(4x^2 - 6x + 9)$
+
+---
+
+### 62) $24a + 81a^4$
+* Factor común $3a$: $3a(8 + 27a^3)$
+* Suma de cubos
+* **Factorización:** $3a(2 + 3a)(4 - 6a + 9a^2)$
+
+---
+
+### 63) $8u^4 + 27u$
+* Factor común $u$: $u(8u^3 + 27)$
+* Suma de cubos
+* **Factorización:** $u(2u + 3)(4u^2 - 6u + 9)$
+
+---
+
+### 64) $343a^4 - 64a$
+* Factor común $a$: $a(343a^3 - 64)$
+* Diferencia de cubos
+* **Factorización:** $a(7a - 4)(49a^2 + 28a + 16)$
+
+---
+
+### 65) $x^5 + 7x^3 - 8x$
+* Factor común $x$: $x(x^4 + 7x^2 - 8)$
+* Trinomio de la forma $y^2 + by + c$, con $y = x^2$
+* **Factorización:** $x(x^2 + 8)(x + 1)(x - 1)$
+
+---
+
+### 66) $x^4 - 3x^2 - 70$
+* Trinomio de la forma $y^2 + by + c$, con $y = x^2$
+* **Factorización:** $(x^2 - 10)(x^2 + 7)$
+
+---
+
+### 67) $u^4 + 2u^2 - 24$
+* Trinomio de la forma $y^2 + by + c$, con $y = u^2$
+* Diferencia de cuadrados en $u^2 - 4$
+* **Factorización:** $(u^2 + 6)(u + 2)(u - 2)$
+
+---
+
+### 68) $5x^5 - 25x^3 - 180x$
+* Factor común $5x$: $5x(x^4 - 5x^2 - 36)$
+* Trinomio de la forma $y^2 + by + c$, con $y = x^2$
+* Diferencia de cuadrados en $x^2 - 9$
+* **Factorización:** $5x(x + 3)(x - 3)(x^2 + 4)$
+
+---
+
+### 69) $x^4 + 4x^2 - 60$
+* Trinomio de la forma $y^2 + by + c$, con $y = x^2$
+* **Factorización:** $(x^2 + 10)(x^2 - 6)$
+
+---
+
+### 70) $4a^5 + 32a^3 + 60a$
+* Factor común $4a$: $4a(a^4 + 8a^2 + 15)$
+* Trinomio de la forma $y^2 + by + c$, con $y = a^2$
+* **Factorización:** $4a(a^2 + 5)(a^2 + 3)$
+
+---
+
+### 71) $m^6 - m^4 - 12m^2$
+* Factor común $m^2$: $m^2(m^4 - m^2 - 12)$
+* Trinomio de la forma $y^2 + by + c$, con $y = m^2$
+* Diferencia de cuadrados en $m^2 - 4$
+* **Factorización:** $m^2(m + 2)(m - 2)(m^2 + 3)$
+
+---
+
+### 72) $x^4 - 3x^2 - 4$
+* Trinomio de la forma $y^2 + by + c$, con $y = x^2$
+* Diferencia de cuadrados en $x^2 - 4$
+* **Factorización:** $(x + 2)(x - 2)(x^2 + 1)$
+
+---
+
+### 73) $21x^5 + 6x^3 - 27x$
+* Factor común $3x$: $3x(7x^4 + 2x^2 - 9)$
+* Trinomio de la forma $ay^2 + by + c$, con $y = x^2$
+* Diferencia de cuadrados en $x^2 - 1$
+* **Factorización:** $3x(7x^2 + 9)(x + 1)(x - 1)$
+
+---
+
+### 74) $5x^6 + 42x^4 - 27x^2$
+* Factor común $x^2$: $x^2(5x^4 + 42x^2 - 27)$
+* Trinomio de la forma $ay^2 + by + c$, con $y = x^2$
+* **Factorización:** $x^2(5x^2 - 3)(x^2 + 9)$
+
+---
+
+### 75) $3x^4 + 2x^2 - 16$
+* Trinomio de la forma $ay^2 + by + c$, con $y = x^2$
+* **Factorización:** $(3x^2 + 8)(x^2 - 2)$
+
+---
+
+### 76) $7x^4 - 51x^2 - 40$
+* Trinomio de la forma $ay^2 + by + c$, con $y = x^2$
+* **Factorización:** $(7x^2 + 5)(x^2 - 8)$
+
+---
+
+### 77) $5a^4 - 18a^2 - 8$
+* Trinomio de la forma $ay^2 + by + c$, con $y = a^2$
+* Diferencia de cuadrados en $a^2 - 4$
+* **Factorización:** $(5a^2 + 2)(a + 2)(a - 2)$
+
+---
+
+### 78) $7m^4 - 13m^2 + 6$
+* Trinomio de la forma $ay^2 + by + c$, con $y = m^2$
+* Diferencia de cuadrados en $m^2 - 1$
+* **Factorización:** $(7m^2 - 6)(m + 1)(m - 1)$
+
+---
+
+### 79) $2x^5 - 25x^3 + 63x$
+* Factor común $x$: $x(2x^4 - 25x^2 + 63)$
+* Trinomio de la forma $ay^2 + by + c$, con $y = x^2$
+* Diferencia de cuadrados en $x^2 - 9$
+* **Factorización:** $x(2x^2 - 7)(x + 3)(x - 3)$
+
+---
+
+### 80) $5x^6 - 2x^4 + 10x^2$
+* Factor común $x^2$: $x^2(5x^4 - 2x^2 + 10)$
+* **Factorización:** $x^2(5x^4 - 2x^2 + 10)$
