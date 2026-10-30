@@ -399,7 +399,605 @@ Ejercicios de factorización
 * **Factorización:** $x(2x^2 - 7)(x + 3)(x - 3)$
 
 ---
-
 ### 80) $5x^6 - 2x^4 + 10x^2$
 * Factor común $x^2$: $x^2(5x^4 - 2x^2 + 10)$
 * **Factorización:** $x^2(5x^4 - 2x^2 + 10)$
+---
+
+
+
+### 81) $x - y = 0$
+
+$$y = x$$
+
+| $x$ | $y$ |
+|:---:|:---:|
+| -1 | -1 |
+| 0 | 0 |
+| 1 | 1 |
+
+Puntos: $(-1, -1)$, $(0, 0)$, $(1, 1)$
+
+### 82) $x + 4y = -8$
+
+$$y = \frac{-8 - x}{4}$$
+
+| $x$ | $y$ |
+|:---:|:---:|
+| -1 | $-\frac{7}{4}$ |
+| 0 | $-2$ |
+| 1 | $-\frac{9}{4}$ |
+
+Puntos: $(-1, -\frac{7}{4})$, $(0, -2)$, $(1, -\frac{9}{4})$
+
+### 83) $7x + y = 2$
+
+$$y = 2 - 7x$$
+
+| $x$ | $y$ |
+|:---:|:---:|
+| -1 | 9 |
+| 0 | 2 |
+| 1 | -5 |
+
+Puntos: $(-1, 9)$, $(0, 2)$, $(1, -5)$
+
+### 84) $2x - y = -1$
+
+$$y = 2x + 1$$
+
+| $x$ | $y$ |
+|:---:|:---:|
+| -1 | -1 |
+| 0 | 1 |
+| 1 | 3 |
+
+Puntos: $(-1, -1)$, $(0, 1)$, $(1, 3)$
+
+### 85) $x - y = -1$
+
+$$y = x + 1$$
+
+| $x$ | $y$ |
+|:---:|:---:|
+| -1 | 0 |
+| 0 | 1 |
+| 1 | 2 |
+
+Puntos: $(-1, 0)$, $(0, 1)$, $(1, 2)$
+
+### 86) $x + 5y = 0$
+
+$$y = \frac{-x}{5}$$
+
+| $x$ | $y$ |
+|:---:|:---:|
+| -1 | $\frac{1}{5}$ |
+| 0 | 0 |
+| 1 | $-\frac{1}{5}$ |
+
+Puntos: $(-1, \frac{1}{5})$, $(0, 0)$, $(1, -\frac{1}{5})$
+
+### 87) $6x - 5y = 25$
+
+$$y = -\frac{25 - 6x}{5}$$
+
+| $x$ | $y$ |
+|:---:|:---:|
+| -1 | -6.2 |
+| 0 | -5 |
+| 1 | -3.8 |
+
+Puntos: $(-1, -6.2)$, $(0, -5)$, $(1, -3.8)$
+
+### 88) $7x + y = -3$
+
+$$y = -3 - 7x$$
+
+| $x$ | $y$ |
+|:---:|:---:|
+| -1 | 4 |
+| 0 | -3 |
+| 1 | -10 |
+
+Puntos: $(-1, 4)$, $(0, -3)$, $(1, -10)$
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/06751963-3aa7-4537-a4ec-20fff7311008" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/80e89960-8abe-43b8-a23c-c50dbd1a9ba2" />
+
+
+---
+
+## Resuelve las siguientes ecuaciones
+
+### 89) $-30 + 6x = -8(-6 - 4x)$
+
+$$
+\begin{aligned}
+-30 + 6x &= 48 + 32x \\
+6x - 32x &= 48 + 30 \\
+-26x &= 78 \\
+x &= -3
+\end{aligned}
+$$
+
+**Respuesta:** $x = -3$
+
+### 90) $-3(1 - 6m) = -3 - m$
+
+$$
+\begin{aligned}
+-3 + 18m &= -3 - m \\
+18m + m &= -3 + 3 \\
+19m &= 0 \\
+m &= 0
+\end{aligned}
+$$
+
+**Respuesta:** $m = 0$
+
+### 91) $x - 8(x - 2) = 11 - 8x$
+
+$$
+\begin{aligned}
+x - 8x + 16 &= 11 - 8x \\
+x - 8x + 8x &= 11 - 16 \\
+x &= -5
+\end{aligned}
+$$
+
+**Respuesta:** $x = -5$
+
+### 92) $10 - 8x = 6x + 2(6x - 8)$
+
+$$
+\begin{aligned}
+10 - 8x &= 6x + 12x - 16 \\
+-8x - 6x - 12x &= -16 - 10 \\
+-26x &= -26 \\
+x &= 1
+\end{aligned}
+$$
+
+**Respuesta:** $x = 1$
+
+### 93) $7 + 3n = -4 + 4(n + 3)$
+
+$$
+\begin{aligned}
+7 + 3n &= -4 + 4n + 12 \\
+3n - 4n &= -4 + 12 - 7 \\
+-n &= 1 \\
+n &= -1
+\end{aligned}
+$$
+
+**Respuesta:** $n = -1$
+
+### 94) $2 + 5x = 2(8x + 1)$
+
+$$
+\begin{aligned}
+2 + 5x &= 16x + 2 \\
+5x - 16x &= 2 - 2 \\
+-11x &= 0 \\
+x &= 0
+\end{aligned}
+$$
+
+**Respuesta:** $x = 0$
+
+### 95) $-1 - 3(1 + 5k) = -26 + 7k$
+
+$$
+\begin{aligned}
+-1 - 3 - 15k &= -26 + 7k \\
+-15k - 7k &= -26 + 1 + 3 \\
+-22k &= -22 \\
+k &= 1
+\end{aligned}
+$$
+
+**Respuesta:** $k = 1$
+
+### 96) $-20 + x = 6x - 5(6x - 1)$
+
+$$
+\begin{aligned}
+-20 + x &= 6x - 30x + 5 \\
+-6x + x + 30x &= 5 + 20 \\
+25x &= 25 \\
+x &= 1
+\end{aligned}
+$$
+
+**Respuesta:** $x = 1$
+
+### 97) $\frac{493}{32} - \frac{13}{8}x = -\frac{7}{4}\left(-\frac{11}{6}x + \frac{29}{8}\right)$
+
+$$
+\begin{aligned}
+\frac{493}{32} - \frac{13}{8}x &= \frac{77}{24}x - \frac{203}{32} \\
+-\frac{13}{8}x - \frac{77}{24}x &= -\frac{203}{32} - \frac{493}{32} \\
+-\frac{29}{6}x &= -\frac{87}{4} \\
+-116x &= -522 \\
+x &= \frac{9}{2}
+\end{aligned}
+$$
+
+**Respuesta:** $x = \frac{9}{2}$
+
+### 98) $\frac{5}{3} + x = -\frac{7}{6}\left(x - \frac{9}{5}\right)$
+
+$$
+\begin{aligned}
+\frac{5}{3} + x &= -\frac{7}{6}x + \frac{63}{30} \\
+x + \frac{7}{6}x &= \frac{63}{30} - \frac{5}{3} \\
+\frac{13}{6}x &= \frac{13}{30} \\
+390x &= 78 \\
+x &= \frac{1}{5}
+\end{aligned}
+$$
+
+**Respuesta:** $x = \frac{1}{5}$
+
+### 99) $-\frac{96}{35} - \frac{4}{3}p = \frac{24}{7}\left(\frac{14}{3}p - \frac{4}{5}\right)$
+
+$$
+\begin{aligned}
+-\frac{96}{35} - \frac{4}{3}p &= \frac{336}{21}p - \frac{96}{35} \\
+-\frac{4}{3}p - \frac{336}{21}p &= -\frac{96}{35} + \frac{96}{35} \\
+-\frac{52}{3}p &= 0 \\
+p &= 0
+\end{aligned}
+$$
+
+**Respuesta:** $p = 0$
+
+### 100) $-\frac{11}{4}\left(-\frac{1}{2}x + 1\right) = -\frac{5}{4} + \frac{3}{8}x$
+
+$$
+\begin{aligned}
+\frac{11}{8}x - \frac{11}{4} &= -\frac{5}{4} + \frac{3}{8}x \\
+\frac{11}{8}x - \frac{3}{8}x &= -\frac{5}{4} + \frac{11}{4} \\
+\frac{8}{8}x &= \frac{6}{4} \\
+x &= \frac{6}{4} = \frac{3}{2}
+\end{aligned}
+$$
+
+**Respuesta:** $x = \frac{3}{2}$
+
+### 101) $-\frac{3}{2}r - \frac{317}{48} = -\frac{19}{8}\left(r + \frac{10}{3}\right)$
+
+$$
+\begin{aligned}
+-\frac{3}{2}r - \frac{317}{48} &= -\frac{19}{8}r - \frac{190}{24} \\
+-\frac{3}{2}r + \frac{19}{8}r &= -\frac{190}{24} + \frac{317}{48} \\
+\frac{7}{8}r &= -\frac{21}{16} \\
+112r &= -168 \\
+r &= -\frac{3}{2}
+\end{aligned}
+$$
+
+**Respuesta:** $r = -\frac{3}{2}$
+
+### 102) $-\frac{7}{6}\left(r + \frac{13}{7}\right) = -\frac{103}{30} + 2r$
+
+$$
+\begin{aligned}
+-\frac{7}{6}r - \frac{91}{42} &= -\frac{103}{30} + 2r \\
+-\frac{7}{6}r - 2r &= -\frac{103}{30} + \frac{91}{42} \\
+-\frac{19}{6}r &= -\frac{19}{15} \\
+-285r &= -114 \\
+r &= \frac{2}{5}
+\end{aligned}
+$$
+
+**Respuesta:** $r = \frac{2}{5}$
+
+### 103) $\frac{13}{7}\left(p + \frac{17}{8}\right) = \frac{23}{5}p + \frac{241}{280}$
+
+$$
+\begin{aligned}
+\frac{13}{7}p + \frac{221}{56} &= \frac{23}{5}p + \frac{241}{280} \\
+\frac{13}{7}p - \frac{23}{5}p &= \frac{241}{280} - \frac{221}{56} \\
+-\frac{96}{35}p &= -\frac{108}{35} \\
+-3360p &= -3780 \\
+p &= \frac{9}{8}
+\end{aligned}
+$$
+
+**Respuesta:** $p = \frac{9}{8}$
+
+### 104) $-\frac{7}{6}n + \frac{7}{75} = -\frac{7}{5}\left(\frac{1}{2}n - \frac{2}{5}\right)$
+
+$$
+\begin{aligned}
+-\frac{7}{6}n + \frac{7}{75} &= -\frac{7}{10}n + \frac{14}{25} \\
+-\frac{7}{6}n + \frac{7}{10}n &= \frac{14}{25} - \frac{7}{75} \\
+-\frac{7}{15}n &= \frac{7}{15} \\
+n &= -1
+\end{aligned}
+$$
+
+**Respuesta:** $n = -1$
+
+---
+
+## Problemas de trabajo
+
+Se suma lo que cada persona hace por hora: $\frac{1}{a} + \frac{1}{b} = \frac{1}{t}$, donde $t$ es el tiempo trabajando juntos.
+
+### 105) Norachai (12 h) y DeShawn (8 h) juntos
+
+$$
+\frac{1}{12} + \frac{1}{8} = \frac{1}{t} \;\rightarrow\; \frac{5}{24} = \frac{1}{t} \;\rightarrow\; 5t = 24 \;\rightarrow\; t = 4.8
+$$
+
+**Respuesta:** $t = 4.8$ horas
+
+### 106) Shanice (13 h), juntos 4.95 h. ¿Eduardo solo?
+
+$$
+\frac{1}{13} + \frac{1}{x} = \frac{1}{4.95} \;\rightarrow\; \frac{1}{x} = \frac{1}{4.95} - \frac{1}{13} \;\rightarrow\; \frac{1}{x} = \frac{161}{1287} \;\rightarrow\; x = \frac{1287}{161} \approx 7.99
+$$
+
+**Respuesta:** $x \approx 7.99$ horas
+
+### 107) Eduardo (15 h), juntos 5.22 h. ¿Ndiba solo?
+
+$$
+\frac{1}{15} + \frac{1}{x} = \frac{1}{5.22} \;\rightarrow\; \frac{1}{x} = \frac{1}{5.22} - \frac{1}{15} \;\rightarrow\; \frac{1}{x} = \frac{163}{1305} \;\rightarrow\; x = \frac{1305}{163} \approx 8
+$$
+
+**Respuesta:** $x \approx 8$ horas
+
+### 108) Mike (10 h) y Elisa (15 h) juntos
+
+$$
+\frac{1}{10} + \frac{1}{15} = \frac{1}{t} \;\rightarrow\; \frac{1}{6} = \frac{1}{t} \;\rightarrow\; t = 6
+$$
+
+**Respuesta:** $t = 6$ horas
+
+### 109) Stefan (9 h) y Eugene (15 h) juntos
+
+$$
+\frac{1}{9} + \frac{1}{15} = \frac{1}{t} \;\rightarrow\; \frac{8}{45} = \frac{1}{t} \;\rightarrow\; 8t = 45 \;\rightarrow\; t = \frac{45}{8} \approx 5.6
+$$
+
+**Respuesta:** $t \approx 5.6$ horas
+
+### 110) Jack (16 h), juntos 7.74 h. ¿Carlos solo?
+
+$$
+\frac{1}{16} + \frac{1}{c} = \frac{1}{7.74} \;\rightarrow\; \frac{1}{c} = \frac{413}{6192} \;\rightarrow\; c = \frac{6192}{413} \approx 14.99
+$$
+
+**Respuesta:** $c \approx 14.99$ horas
+
+### 111) Stephanie (8 h) y Jessica (11 h) juntas
+
+$$
+\frac{1}{8} + \frac{1}{11} = \frac{1}{t} \;\rightarrow\; \frac{19}{88} = \frac{1}{t} \;\rightarrow\; 19t = 88 \;\rightarrow\; t = \frac{88}{19} \approx 4.63
+$$
+
+**Respuesta:** $t \approx 4.63$ horas
+
+### 112) Mike (10 h), juntos 5.65 h. ¿Jaidee sola?
+
+$$
+\frac{1}{10} + \frac{1}{J} = \frac{1}{5.65} \;\rightarrow\; \frac{1}{J} = \frac{87}{1130} \;\rightarrow\; J = \frac{1130}{87} \approx 12.98
+$$
+
+**Respuesta:** $J \approx 12.98$ horas
+
+---
+
+## Problemas de distancia, velocidad y tiempo
+
+Fórmula: $d = v \cdot t$, o bien $v = \frac{d}{t}$
+
+### 113) Shanice y Daniel en direcciones opuestas
+
+| | Shanice | Daniel |
+|---|---|---|
+| $v$ | 74 km/h | 76 km/h |
+| $t$ | 3 h | ? |
+| $d$ | 222 km | $298 - 222 = 76$ km |
+
+$$
+t = \frac{76}{76} = 1
+$$
+
+**Respuesta:** Daniel viajó 1 hora
+
+### 114) Barco pesquero, ida y regreso
+
+| | Ida | Regreso |
+|---|---|---|
+| $t$ | 6 h | 9 h |
+| $v$ | ? | 12 km/h |
+| $d$ | 108 km | 108 km |
+
+$$
+v_1 = \frac{108}{6} = 18
+$$
+
+**Respuesta:** $v_1 = 18$ km/h
+
+### 115) Brenda alcanza a Shayna
+
+| | Brenda | Shayna |
+|---|---|---|
+| $v$ | 75 mi/h | ? |
+| $t$ | 2 h | 3 h |
+| $d$ | 150 mi | 150 mi |
+
+$$
+v = \frac{150}{3} = 50
+$$
+
+**Respuesta:** Shayna iba a 50 mi/h
+
+### 116) Trevon, ida y regreso
+
+$v_1 = 55$ km/h, $v_2 = 44$ km/h
+
+$$
+\begin{aligned}
+55t &= 44(t + 1) \\
+55t &= 44t + 44 \\
+11t &= 44 \\
+t &= 4
+\end{aligned}
+$$
+
+**Respuesta:** El viaje de ida duró 4 horas
+
+### 117) Rob y Julia en direcciones opuestas
+
+$$
+\begin{aligned}
+2r + (r - 30) &= 180 \\
+3r &= 210 \\
+r &= 70
+\end{aligned}
+$$
+
+**Respuesta:** Rob iba a 70 km/h
+
+### 118) Avión de carga y avión de la Fuerza Aérea
+
+| | Fuerza Aérea | Carga |
+|---|---|---|
+| $v$ | 455 km/h | $c$ |
+| $t$ | 11 h | 11 h |
+| $d$ | 5005 km | $11c$ |
+
+$$
+\begin{aligned}
+5005 + 11c &= 7480 \\
+11c &= 2475 \\
+c &= 225
+\end{aligned}
+$$
+
+**Respuesta:** El avión de carga voló a 225 km/h
+
+### 119) Portaaviones y submarino
+
+$$
+\begin{aligned}
+17t + 29t &= 552 \\
+46t &= 552 \\
+t &= 12
+\end{aligned}
+$$
+
+**Respuesta:** 12 horas
+
+### 120) Shayna, ida y regreso
+
+$$
+\begin{aligned}
+6v &= 4(v + 15) \\
+6v &= 4v + 60 \\
+2v &= 60 \\
+v &= 30
+\end{aligned}
+$$
+
+**Respuesta:** $v = 30$ km/h
+
+---
+
+## Problemas de mezclas
+
+Lo que aporta cada parte se suma para dar lo que hay en la mezcla final.
+
+### 121) Metal al 88% con 12 lb de níquel puro → 96%
+
+$$
+\begin{aligned}
+0.88x + 12 &= 0.96(x + 12) \\
+0.88x + 12 &= 0.96x + 11.52 \\
+0.48 &= 0.08x \\
+x &= 6
+\end{aligned}
+$$
+
+**Respuesta:** 6 libras
+
+### 122) 7 cuartos de $x$ con 5 cuartos al 34% → 20%
+
+$$
+\begin{aligned}
+7x + 1.7 &= 2.4 \\
+7x &= 0.7 \\
+x &= 0.1 = 10\%
+\end{aligned}
+$$
+
+**Respuesta:** 10%
+
+### 123) 2 m³ al 17% con 6 m³ de $x$ → 8 m³ al 14%
+
+$$
+\begin{aligned}
+0.34 + 6x &= 1.12 \\
+6x &= 0.78 \\
+x &= 0.13 = 13\%
+\end{aligned}
+$$
+
+**Respuesta:** 13%
+
+### 124) 4 galones de agua pura con $x$ galones al 9% → 5%
+
+$$
+\begin{aligned}
+0.09x &= 0.05(x + 4) \\
+0.09x &= 0.05x + 0.2 \\
+0.04x &= 0.2 \\
+x &= 5
+\end{aligned}
+$$
+
+**Respuesta:** 5 galones
+
+### 125) 4 oz de melaza de caña con 8 oz a \$1 → 12 oz a \$2
+
+$$
+\begin{aligned}
+4c + 8 &= 24 \\
+4c &= 16 \\
+c &= 4
+\end{aligned}
+$$
+
+**Respuesta:** \$4 por onza
+
+### 126) 3 oz de $x$ con 1 oz de agua pura → 15%
+
+$$
+\begin{aligned}
+3x &= 0.6 \\
+x &= 0.2 = 20\%
+\end{aligned}
+$$
+
+**Respuesta:** 20%
+
+### 127) 18 kg al 30% con 12 kg de $x$ → 38%
+
+$$
+\begin{aligned}
+5.4 + 12x &= 11.4 \\
+12x &= 6 \\
+x &= 0.5 = 50\%
+\end{aligned}
+$$
+
+**Respuesta:** 50%
+
+
