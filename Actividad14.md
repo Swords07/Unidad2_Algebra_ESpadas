@@ -1000,4 +1000,208 @@ $$
 
 **Respuesta:** 50%
 
+# Ejercicios matrices
 
+## Ejercicio 1
+
+```math
+\begin{bmatrix}-6\\-2\\-6\\-3\end{bmatrix}+
+\begin{bmatrix}5\\-4\\-5\\6\end{bmatrix}+
+\begin{bmatrix}6\\2\\6\\-3\end{bmatrix}
+```
+
+**Procedimiento:** Se suman las entradas que ocupan la misma posición: $-6+5+6=5$, $-2-4+2=-4$, $-6-5+6=-5$ y $-3+6-3=0$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}5\\-4\\-5\\0\end{bmatrix}}
+```
+
+## Ejercicio 2
+
+```math
+\begin{bmatrix}-1&3\\-6&-1\end{bmatrix}-\left(\begin{bmatrix}4&5\\0&-6\end{bmatrix}-\begin{bmatrix}-3&-3\\6&-4\end{bmatrix}\right)
+```
+
+**Procedimiento:** Primero se resuelve la resta entre paréntesis:
+
+```math
+\begin{bmatrix}4-(-3)&5-(-3)\\0-6&-6-(-4)\end{bmatrix}=\begin{bmatrix}7&8\\-6&-2\end{bmatrix}.
+```
+
+Después se resta esta matriz de la primera.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}-8&-5\\0&1\end{bmatrix}}
+```
+
+## Ejercicio 3
+
+```math
+\begin{bmatrix}-4&6&-3&5\end{bmatrix}-\begin{bmatrix}-4&-5&-5&3\end{bmatrix}+\begin{bmatrix}4&4&5&-5\end{bmatrix}
+```
+
+**Procedimiento:** Se opera entrada por entrada: $-4+4+4=4$, $6+5+4=15$, $-3+5+5=7$ y $5-3-5=-3$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}4&15&7&-3\end{bmatrix}}
+```
+
+## Ejercicio 4
+
+```math
+\begin{bmatrix}0&0\end{bmatrix}-\begin{bmatrix}5&4\end{bmatrix}+\begin{bmatrix}-4&-3\end{bmatrix}
+```
+
+**Procedimiento:** Se calculan las dos posiciones: $0-5-4=-9$ y $0-4-3=-7$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}-9&-7\end{bmatrix}}
+```
+
+## Ejercicio 5
+
+```math
+-3\cdot\left(-2\begin{bmatrix}-5&2&2&-5\end{bmatrix}\right)
+```
+
+**Procedimiento:** Se multiplican primero los escalares: $(-3)(-2)=6$. Después se multiplica cada entrada de la matriz por $6$.
+
+```math
+6\begin{bmatrix}-5&2&2&-5\end{bmatrix}
+```
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}-30&12&12&-30\end{bmatrix}}
+```
+
+## Ejercicio 6
+
+```math
+5\cdot\left(-4\begin{bmatrix}2&-2&0\end{bmatrix}\right)
+```
+
+**Procedimiento:** Se multiplican los escalares: $5(-4)=-20$. Luego, $-20(2)=-40$, $-20(-2)=40$ y $-20(0)=0$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}-40&40&0\end{bmatrix}}
+```
+
+## Ejercicio 7
+
+```math
+5\cdot\left(2\begin{bmatrix}-2&-4\\-1&-5\\-1&-5\end{bmatrix}\right)
+```
+
+**Procedimiento:** Se combinan los escalares: $5(2)=10$. Cada elemento de la matriz se multiplica por $10$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}-20&-40\\-10&-50\\-10&-50\end{bmatrix}}
+```
+
+## Ejercicio 8
+
+```math
+-3\cdot\left(3\begin{bmatrix}6\\-1\end{bmatrix}\right)
+```
+
+**Procedimiento:** Se multiplican los escalares: $(-3)(3)=-9$. Entonces $-9(6)=-54$ y $-9(-1)=9$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}-54\\9\end{bmatrix}}
+```
+
+## Ejercicio 9
+
+```math
+\begin{bmatrix}0&5\\2&-4\end{bmatrix}\cdot\left(\begin{bmatrix}4&0\\2&1\end{bmatrix}\cdot\begin{bmatrix}-2&1&2&-3\\4&-2&3&2\end{bmatrix}\right)
+```
+
+**Procedimiento:** Se multiplican primero las matrices del paréntesis, usando productos de filas por columnas. Por ejemplo, la primera entrada es $4(-2)+0(4)=-8$.
+
+```math
+\begin{bmatrix}4&0\\2&1\end{bmatrix}\begin{bmatrix}-2&1&2&-3\\4&-2&3&2\end{bmatrix}=\begin{bmatrix}-8&4&8&-12\\0&0&7&-4\end{bmatrix}
+```
+
+Luego se multiplica la primera matriz por la obtenida; por ejemplo, la entrada $(1,3)$ es $0(8)+5(7)=35$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}0&0&35&-20\\-16&8&-12&-8\end{bmatrix}}
+```
+
+## Ejercicio 10
+
+```math
+\begin{bmatrix}1&2\\3&-4\\2&-4\end{bmatrix}\cdot\left(\begin{bmatrix}4&2\\2&-5\end{bmatrix}\cdot\begin{bmatrix}-1&3\\1&2\end{bmatrix}\right)
+```
+
+**Procedimiento:** Primero se multiplican las matrices del paréntesis:
+
+```math
+\begin{bmatrix}4&2\\2&-5\end{bmatrix}\begin{bmatrix}-1&3\\1&2\end{bmatrix}=\begin{bmatrix}-2&16\\-7&-4\end{bmatrix}.
+```
+
+Después se multiplica por la matriz de $3\times2$. Por ejemplo, la primera fila resulta $1(-2)+2(-7)=-16$ y $1(16)+2(-4)=8$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}-16&8\\22&64\\24&48\end{bmatrix}}
+```
+
+## Ejercicio 11
+
+```math
+\begin{bmatrix}5&-2&5&6\\1&-5&6&4\end{bmatrix}\cdot\left(\begin{bmatrix}3&1\\4&-1\\-1&-3\\-2&-1\end{bmatrix}\cdot\begin{bmatrix}0&1\\-1&0\end{bmatrix}\right)
+```
+
+**Procedimiento:** Primero se multiplican las matrices dentro del paréntesis:
+
+```math
+\begin{bmatrix}3&1\\4&-1\\-1&-3\\-2&-1\end{bmatrix}\begin{bmatrix}0&1\\-1&0\end{bmatrix}=\begin{bmatrix}-1&3\\1&4\\3&-1\\1&-2\end{bmatrix}.
+```
+
+Luego se multiplica la matriz $2\times4$ por la matriz $4\times2$. Por ejemplo, la entrada superior izquierda es $5(-1)+(-2)(1)+5(3)+6(1)=14$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}14&-10\\16&-31\end{bmatrix}}
+```
+
+## Ejercicio 12
+
+```math
+\begin{bmatrix}0&-4\\1&-4\\-1&5\\-3&4\end{bmatrix}\cdot\left(\begin{bmatrix}-3&-1&-2&3\\-1&-4&-3&5\end{bmatrix}\cdot\begin{bmatrix}4&0\\1&-5\\2&5\\2&1\end{bmatrix}\right)
+```
+
+**Procedimiento:** Se multiplica primero la matriz $2\times4$ por la matriz $4\times2$. Por ejemplo, la entrada superior izquierda es $(-3)(4)+(-1)(1)+(-2)(2)+3(2)=-11$.
+
+```math
+\begin{bmatrix}-3&-1&-2&3\\-1&-4&-3&5\end{bmatrix}\begin{bmatrix}4&0\\1&-5\\2&5\\2&1\end{bmatrix}=\begin{bmatrix}-11&-2\\-4&10\end{bmatrix}.
+```
+
+Finalmente, se multiplica la matriz $4\times2$ inicial por este resultado. Por ejemplo, la primera fila es $0(-11)+(-4)(-4)=16$ y $0(-2)+(-4)(10)=-40$.
+
+**Resultado final:**
+
+```math
+\boxed{\begin{bmatrix}16&-40\\5&-42\\-9&52\\17&46\end{bmatrix}}
+```
